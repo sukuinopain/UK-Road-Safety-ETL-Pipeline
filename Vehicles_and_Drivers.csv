@@ -1,0 +1,21 @@
+Vehicle_Type,Age_Band_of_Driver,Sex_of_Driver,Total_Vehicles_Involved,Distinct_Accidents,Severe_or_Fatal_Involved,Avg_Vehicle_Age_Years,Avg_Engine_CC
+Car,26 - 35,Male,186893,178518,23175,7.7,1802.0
+Car,36 - 45,Male,169181,162253,21055,7.2,1888.0
+Car,46 - 55,Male,136092,131362,18081,7.1,1898.0
+Car,26 - 35,Female,126017,122332,11993,7.0,1609.0
+Car,36 - 45,Female,119711,116494,11927,6.7,1700.0
+Car,21 - 25,Male,104597,102228,14642,8.1,1646.0
+Car,46 - 55,Female,91437,89441,10088,6.7,1651.0
+Car,56 - 65,Male,90576,88587,13180,6.9,1870.0
+Car,16 - 20,Male,75079,73810,10808,8.5,1426.0
+Car,21 - 25,Female,72080,70861,6817,7.1,1424.0
+Car,66 - 75,Male,51749,50973,8225,7.0,1776.0
+Car,56 - 65,Female,50424,49832,6457,6.6,1597.0
+Car,16 - 20,Female,46916,46399,4680,7.7,1300.0
+Car,Over 75,Male,35040,34720,6666,7.7,1606.0
+Van / Goods 3.5 tonnes mgw or under,26 - 35,Male,25576,25251,3512,5.1,2154.0
+Car,66 - 75,Female,24928,24747,3908,6.8,1520.0
+Van / Goods 3.5 tonnes mgw or under,36 - 45,Male,23664,23401,3377,5.2,2217.0
+Van / Goods 3.5 tonnes mgw or under,46 - 55,Male,18973,18773,2921,5.4,2199.0
+Motorcycle over 500cc,36 - 45,Male,18376,18262,6867,8.4,869.0
+Bus or coach (17 or more pass seats),46 - 55,Male,17483,17421,2254,7.3,7221.0

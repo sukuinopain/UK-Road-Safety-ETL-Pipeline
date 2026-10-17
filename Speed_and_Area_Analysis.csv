@@ -1,0 +1,13 @@
+Urban_or_Rural_Area,Speed_limit,Total_Accidents,Total_Casualties,Avg_Casualties_Per_Accident
+Rural,20.0,2874,3468,1.21
+Rural,30.0,169199,222321,1.31
+Rural,40.0,74203,108849,1.47
+Rural,50.0,48253,74119,1.54
+Rural,60.0,301936,458721,1.52
+Rural,70.0,128271,202125,1.58
+Urban,20.0,35525,41443,1.17
+Urban,30.0,1136898,1429630,1.26
+Urban,40.0,94146,132311,1.41
+Urban,50.0,21223,30462,1.44
+Urban,60.0,15475,22084,1.43
+Urban,70.0,19020,29451,1.55
